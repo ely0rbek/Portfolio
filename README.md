@@ -1,4 +1,4 @@
-# [Global: HTML5 website template](http://ely0rbek.uz)
+# [Portfolio website template](http://ely0rbek.uz)
 
 <!-- ### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/) -->
 
