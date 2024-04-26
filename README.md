@@ -1,9 +1,6 @@
 # [Portfolio website template](http://ely0rbek.uz)
 
-<!-- ### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/) -->
-
 Bu shunchaki Portfolio vizitka website
-
 
 [LIVE PREVIEW](http://ely0rbek.uz)
 
